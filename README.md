@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nirai-Arasu
-- 👀 I’m interested in Web Development and learning backend 
+- 👀 I’m interested in Web Development and currently learning backend 
 - 🌱 I’m currently working as a React Developer 
 
 
